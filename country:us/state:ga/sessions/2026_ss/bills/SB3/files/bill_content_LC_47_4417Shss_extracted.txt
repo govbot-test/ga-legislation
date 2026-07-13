@@ -1,0 +1,289 @@
+Title: The House Committee on Governmental Affairs offers the following substitute to SB 3EX:
+Official Title: The House Committee on Governmental Affairs offers the following substitute to SB 3EX:
+Number of Sections: 1
+Source: versions - LC 47 4417S/hss
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+26 LC 47 4417S
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to
+2 elections and primaries generally, so as to establish the Election Equipment Specifications
+3 and Standards Committee to prepare recommendations for the specifications, standards, and
+4 requirements for a new uniform system of election equipment; to provide for membership
+5 and duties; to provide for input from subject matter experts; to provide for reporting; to
+6 provide for the extent to which the Secretary of State is authorized to provide for the
+7 selection, certification, or procurement of the new uniform system of election equipment; to
+8 declare certain actions void and ultra vires; to provide for input from certain stakeholders;
+9 to authorize per diems and expenses; to provide for automatic repeal; to establish provisions
+10 related to mandatory recounts of votes in certain circumstances; to provide for the state to
+11 reimburse the costs of such recounts; to authorize grants to counties; to revise provisions
+12 related to selected contests subject to risk-limiting audits; to amend an Act relating to
+13 elections and primaries approved May 6, 2024 (Ga. L. 2024, p. 1028), SB 189, so as to revise
+14 an effective date; to provide for related matters; to provide for an effective date; to repeal
+15 conflicting laws; and for other purposes.
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 3EX (SUB)
+- 1 -
+26 LC 47 4417S
+17 SECTION 1.
+18 Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and
+19 primaries generally, is amended by adding a new Code section to read as follows:
+20 "21-2-301.
+21 (a) There is created the Election Equipment Specifications and Standards Committee that
+22 shall recommend the specifications, standards, and requirements for a new uniform system
+23 of election equipment based upon hand marked paper ballots produced utilizing ballot on
+24 demand printing. Such committee shall be composed the following:
+25 (1) Three electors of the state to be appointed by the Governor;
+26 (2) Three members of the Senate to be appointed by the Senate Committee on
+27 Assignments, one of whom shall be designated as cochairperson; and
+28 (3) Three members of the House of Representatives to be appointed by the Speaker of
+29 the House of Representatives, one of whom shall be designated as cochairperson.
+30 (b) The committee may seek input from, but shall not be limited to:
+31 (1) The elections director of the Secretary of State's office, or his or her designee;
+32 (2) The executive director of the State Election Board;
+33 (3) The Georgia Association of Voter Registration and Election Officials;
+34 (4) Cybersecurity experts; and
+35 (5) Accessibility or disability experts.
+36 (c) By January 31, 2027, the committee shall prepare a report which shall provide its
+37 recommendations for specifications, standards, and requirements for a new uniform system
+38 of election equipment. Such report shall be of sufficient detail so as to allow legislative
+39 and executive policymakers to develop appropriations, procurement, and implementation
+40 plans to provide for the use of such new uniform system of election equipment in the 2028
+41 election cycle. The report shall be delivered to the Governor, the Lieutenant Governor, the
+42 Speaker of the House of Representatives, the Secretary of State, and the State Election
+43 Board.
+S. B. 3EX (SUB)
+- 2 -
+26 LC 47 4417S
+44 (d)(1) Notwithstanding any other law to the contrary, except as provided for in
+45 paragraph (2) of this subsection, the Secretary of State in office on the effective date of
+46 this Code section shall have no role or authority in the selection, certification, or
+47 procurement of such new uniform system, including, but not limited to, the preparation
+48 of any requests for proposals, requests for qualifications, or other solicitations to potential
+49 vendors of election equipment to be used as a part of such uniform system. Any and all
+50 actions taken by the Secretary of State in office on the effective date of this Code section
+51 related to the selection, certification, or procurement of a new uniform system of election
+52 equipment shall be void and ultra vires.
+53 (2) Notwithstanding paragraph (1) of this subsection to the contrary, by majority vote the
+54 committee may request input and comment from the elections director or any other
+55 employee of the Secretary of State's office.
+56 (e) Each nonlegislative member of the committee shall receive a per diem in an amount
+57 equal to the per diem received by members of the General Assembly for each day or
+58 portion of a day thereof spent in serving as a member of the committee and shall be paid
+59 his or her necessary traveling expenses while engaged in the business of the committee
+60 from funds appropriated to the State Election Board.
+61 (f) This Code section shall stand repealed on July 1, 2029."
+62 SECTION 2.
+63 Said chapter is further amended in Code Section 21-2-495, relating to procedure for recount
+64 or recanvass of votes, losing candidate's right to a recount, and rules and regulations, by
+65 adding a new subsection to read as follows:
+66 "(d.1)(1) For the purposes of this subsection the term 'qualified contest' shall mean a
+67 general election contest for the offices of Governor, Lieutenant Governor, Secretary of
+68 State, Attorney General, State School Superintendent, Commissioner of Insurance,
+69 Commissioner of Agriculture, and Commissioner of Labor.
+S. B. 3EX (SUB)
+- 3 -
+26 LC 47 4417S
+70 (2) Notwithstanding any provisions of subsection (c) of this Code section to the contrary,
+71 in any qualified contest that appears as the first or second contest on a ballot, the
+72 difference between the number of votes received by a candidate who has been declared
+73 elected to an office in such qualified contest and the number of votes received by any
+74 other candidate or candidates not declared so elected shall be not more than one-half of
+75 1 percent of the total votes which were cast in such qualified contest. If such difference
+76 is not more than one-half of 1 percent, no later than two business days following the date
+77 for certification of the election results required by subsection (k) of Code
+78 Section 21-2-493, the Secretary of State shall direct that a manual recount of all ballots
+79 cast in such qualified contest be performed in all counties. If, upon such recount, it is
+80 determined that the original count was incorrect, the returns and all papers prepared by
+81 the superintendents or the Secretary of State shall be corrected pursuant to subsection (i)
+82 of Code Section 21-2-493 and the results recertified.
+83 (3) The state shall reimburse counties the reasonable costs incurred by such counties in
+84 any recount conducted pursuant to this subsection; provided, however, that, to be eligible
+85 for such reimbursement, the superintendent for such county shall complete such recount
+86 within seventeen days of the Secretary of State ordering the recount."
+87 SECTION 3.
+88 Said chapter is further amended in Code Section 21-2-498, relating to precertification
+89 tabulation audits and risk-limiting audits, by revising paragraph (4) of subsection (a) as
+90 follows:
+91 "(4) 'Selected contests' means:
+92 (A) The contest at the top of a ballot; and
+93 (B) If they are on the ballot, each of the following races: presidential, United States
+94 Senate, United States Representative, Governor, Lieutenant Governor, Secretary of
+S. B. 3EX (SUB)
+- 4 -
+26 LC 47 4417S
+95 State, and Attorney General, provided that such selected contest is not the race at the
+96 top of the ballot as provided for by subparagraph (A) of this paragraph; and
+97 (C) If the following races are on a ballot, one contest from the following races as
+98 selected pursuant to subsection (d) of this Code section: United States Senate,
+99 Governor, Lieutenant Governor, Secretary of State, Attorney General, State School
+100 Superintendent, Commissioner of Insurance, Commissioner of Agriculture,
+101 Commissioner of Labor, Supreme Court Justice, Judge of the Court of Appeals, or
+102 Public Service Commissioner, provided that such selected contest is not the race at the
+103 top of the ballot."
+104 SECTION 4.
+105 An Act relating to elections and primaries approved May 6, 2024 (Ga. L. 2024, p. 1028),
+106 SB 189, is amended by revising subsection (d) of Section 13 as follows:
+107 "(d) Section 7 of this Act shall become effective on January 1, 2028."
+108 SECTION 5.
+109 This Act shall become effective upon its approval by the Governor or upon its becoming law
+110 without such approval.
+111 SECTION 6.
+112 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 3EX (SUB)
+- 5 -
+[DELETED: 6LTearapsdt0r1r2r3e4a5c6B]
+[DELETED: 6L7S8C9p021(2s3o4d5(6(  T m o t S t b a b t S C o7A8(9t0(1(2(3(4(5(6(7r8o9a0p1e2S3B]
+[DELETED: 6L4(  N a o l t t c e a p f i5p6t C s s h n r o a i t s c o7p8o9v0a1r2e3(4c5e6(7e8p9h0f1(2S3S4o5a6(7g8S A G S S S C o I9C]
+[DELETED: 6L0(1i a q c t a a t f o s c o a b t2d3e4o516i7f c o t e r r b s ( o C8S9c0d1t2o3(4a5f6w7S8S c i f a i C S 2 r t p9t0f1(2(3(4S]
+[DELETED: 6L5S6t7(8s p t s ( o t C s U S S9G0S C o I C o A1C2P3t4S5A6S7(8S9T0w1S2A]
+
+
+================================================================================
+
+Raw Text:
+26 LC 47 4417S
+The House Committee on Governmental Affairs offers the following substitute to SB 3EX:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to
+2 elections and primaries generally, so as to establish the Election Equipment Specifications
+3 and Standards Committee to prepare recommendations for the specifications, standards, and
+4 requirements for a new uniform system of election equipment; to provide for membership
+5 and duties; to provide for input from subject matter experts; to provide for reporting; to
+6 provide for the extent to which the Secretary of State is authorized to provide for the
+7 selection, certification, or procurement of the new uniform system of election equipment; to
+8 declare certain actions void and ultra vires; to provide for input from certain stakeholders;
+9 to authorize per diems and expenses; to provide for automatic repeal; to establish provisions
+10 related to mandatory recounts of votes in certain circumstances; to provide for the state to
+11 reimburse the costs of such recounts; to authorize grants to counties; to revise provisions
+12 related to selected contests subject to risk-limiting audits; to amend an Act relating to
+13 elections and primaries approved May 6, 2024 (Ga. L. 2024, p. 1028), SB 189, so as to revise
+14 an effective date; to provide for related matters; to provide for an effective date; to repeal
+15 conflicting laws; and for other purposes.
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 3EX (SUB)
+- 1 -
+
+26 LC 47 4417S
+17 SECTION 1.
+18 Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and
+19 primaries generally, is amended by adding a new Code section to read as follows:
+20 "21-2-301.
+21 (a) There is created the Election Equipment Specifications and Standards Committee that
+22 shall recommend the specifications, standards, and requirements for a new uniform system
+23 of election equipment based upon hand marked paper ballots produced utilizing ballot on
+24 demand printing. Such committee shall be composed the following:
+25 (1) Three electors of the state to be appointed by the Governor;
+26 (2) Three members of the Senate to be appointed by the Senate Committee on
+27 Assignments, one of whom shall be designated as cochairperson; and
+28 (3) Three members of the House of Representatives to be appointed by the Speaker of
+29 the House of Representatives, one of whom shall be designated as cochairperson.
+30 (b) The committee may seek input from, but shall not be limited to:
+31 (1) The elections director of the Secretary of State's office, or his or her designee;
+32 (2) The executive director of the State Election Board;
+33 (3) The Georgia Association of Voter Registration and Election Officials;
+34 (4) Cybersecurity experts; and
+35 (5) Accessibility or disability experts.
+36 (c) By January 31, 2027, the committee shall prepare a report which shall provide its
+37 recommendations for specifications, standards, and requirements for a new uniform system
+38 of election equipment. Such report shall be of sufficient detail so as to allow legislative
+39 and executive policymakers to develop appropriations, procurement, and implementation
+40 plans to provide for the use of such new uniform system of election equipment in the 2028
+41 election cycle. The report shall be delivered to the Governor, the Lieutenant Governor, the
+42 Speaker of the House of Representatives, the Secretary of State, and the State Election
+43 Board.
+S. B. 3EX (SUB)
+- 2 -
+
+26 LC 47 4417S
+44 (d)(1) Notwithstanding any other law to the contrary, except as provided for in
+45 paragraph (2) of this subsection, the Secretary of State in office on the effective date of
+46 this Code section shall have no role or authority in the selection, certification, or
+47 procurement of such new uniform system, including, but not limited to, the preparation
+48 of any requests for proposals, requests for qualifications, or other solicitations to potential
+49 vendors of election equipment to be used as a part of such uniform system. Any and all
+50 actions taken by the Secretary of State in office on the effective date of this Code section
+51 related to the selection, certification, or procurement of a new uniform system of election
+52 equipment shall be void and ultra vires.
+53 (2) Notwithstanding paragraph (1) of this subsection to the contrary, by majority vote the
+54 committee may request input and comment from the elections director or any other
+55 employee of the Secretary of State's office.
+56 (e) Each nonlegislative member of the committee shall receive a per diem in an amount
+57 equal to the per diem received by members of the General Assembly for each day or
+58 portion of a day thereof spent in serving as a member of the committee and shall be paid
+59 his or her necessary traveling expenses while engaged in the business of the committee
+60 from funds appropriated to the State Election Board.
+61 (f) This Code section shall stand repealed on July 1, 2029."
+62 SECTION 2.
+63 Said chapter is further amended in Code Section 21-2-495, relating to procedure for recount
+64 or recanvass of votes, losing candidate's right to a recount, and rules and regulations, by
+65 adding a new subsection to read as follows:
+66 "(d.1)(1) For the purposes of this subsection the term 'qualified contest' shall mean a
+67 general election contest for the offices of Governor, Lieutenant Governor, Secretary of
+68 State, Attorney General, State School Superintendent, Commissioner of Insurance,
+69 Commissioner of Agriculture, and Commissioner of Labor.
+S. B. 3EX (SUB)
+- 3 -
+
+26 LC 47 4417S
+70 (2) Notwithstanding any provisions of subsection (c) of this Code section to the contrary,
+71 in any qualified contest that appears as the first or second contest on a ballot, the
+72 difference between the number of votes received by a candidate who has been declared
+73 elected to an office in such qualified contest and the number of votes received by any
+74 other candidate or candidates not declared so elected shall be not more than one-half of
+75 1 percent of the total votes which were cast in such qualified contest. If such difference
+76 is not more than one-half of 1 percent, no later than two business days following the date
+77 for certification of the election results required by subsection (k) of Code
+78 Section 21-2-493, the Secretary of State shall direct that a manual recount of all ballots
+79 cast in such qualified contest be performed in all counties. If, upon such recount, it is
+80 determined that the original count was incorrect, the returns and all papers prepared by
+81 the superintendents or the Secretary of State shall be corrected pursuant to subsection (i)
+82 of Code Section 21-2-493 and the results recertified.
+83 (3) The state shall reimburse counties the reasonable costs incurred by such counties in
+84 any recount conducted pursuant to this subsection; provided, however, that, to be eligible
+85 for such reimbursement, the superintendent for such county shall complete such recount
+86 within seventeen days of the Secretary of State ordering the recount."
+87 SECTION 3.
+88 Said chapter is further amended in Code Section 21-2-498, relating to precertification
+89 tabulation audits and risk-limiting audits, by revising paragraph (4) of subsection (a) as
+90 follows:
+91 "(4) 'Selected contests' means:
+92 (A) The contest at the top of a ballot; and
+93 (B) If they are on the ballot, each of the following races: presidential, United States
+94 Senate, United States Representative, Governor, Lieutenant Governor, Secretary of
+S. B. 3EX (SUB)
+- 4 -
+
+26 LC 47 4417S
+95 State, and Attorney General, provided that such selected contest is not the race at the
+96 top of the ballot as provided for by subparagraph (A) of this paragraph; and
+97 (C) If the following races are on a ballot, one contest from the following races as
+98 selected pursuant to subsection (d) of this Code section: United States Senate,
+99 Governor, Lieutenant Governor, Secretary of State, Attorney General, State School
+100 Superintendent, Commissioner of Insurance, Commissioner of Agriculture,
+101 Commissioner of Labor, Supreme Court Justice, Judge of the Court of Appeals, or
+102 Public Service Commissioner, provided that such selected contest is not the race at the
+103 top of the ballot."
+104 SECTION 4.
+105 An Act relating to elections and primaries approved May 6, 2024 (Ga. L. 2024, p. 1028),
+106 SB 189, is amended by revising subsection (d) of Section 13 as follows:
+107 "(d) Section 7 of this Act shall become effective on January 1, 2028."
+108 SECTION 5.
+109 This Act shall become effective upon its approval by the Governor or upon its becoming law
+110 without such approval.
+111 SECTION 6.
+112 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 3EX (SUB)
+- 5 -
+
+[DELETED: 6LTearapsdt0r1r2r3e4a5c6B]
+[DELETED: 6L7S8C9p021(2s3o4d5(6(  T m o t S t b a b t S C o7A8(9t0(1(2(3(4(5(6(7r8o9a0p1e2S3B]
+[DELETED: 6L4(  N a o l t t c e a p f i5p6t C s s h n r o a i t s c o7p8o9v0a1r2e3(4c5e6(7e8p9h0f1(2S3S4o5a6(7g8S A G S S S C o I9C]
+[DELETED: 6L0(1i a q c t a a t f o s c o a b t2d3e4o516i7f c o t e r r b s ( o C8S9c0d1t2o3(4a5f6w7S8S c i f a i C S 2 r t p9t0f1(2(3(4S]
+[DELETED: 6L5S6t7(8s p t s ( o t C s U S S9G0S C o I C o A1C2P3t4S5A6S7(8S9T0w1S2A]

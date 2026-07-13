@@ -1,0 +1,188 @@
+Title: By: Representatives Schofield of the 63rd, Davis of the 87th, Scott of the 76th, Lim of the 98th,
+Official Title: By: Representatives Schofield of the 63rd, Davis of the 87th, Scott of the 76th, Lim of the 98th,
+Number of Sections: 1
+Source: versions - LC 112 4271/a
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+26 LC 112 4271
+House Resolution 7EX
+and Cannon of the 58th
+A RESOLUTION
+1 Recognizing endometrial cancer as a significant public health concern in the State of Georgia
+2 and promoting broad awareness and the importance of prevention, screening, and treatment;
+3 and for other purposes.
+4 WHEREAS, endometrial cancer, the most common type of uterine cancer, accounts for
+5 approximately 95 percent of all uterine cancer cases and develops when cells in the lining
+6 of the uterus mutate or change and become malignant; and
+7 WHEREAS, it ranks as the most common gynecologic malignancy in the United States, with
+8 approximately 66,000 cases diagnosed annually; and
+9 WHEREAS, endometrial cancer primarily affects postmenopausal women, with the average
+10 age at diagnosis being approximately 60 years, and is uncommon among women younger
+11 than 45 years of age; and
+12 WHEREAS, uterine cancer incidence has increased in recent decades and is now the fourth
+13 most common cancer in women; and
+H. R. 7EX
+- 1 -
+26 LC 112 4271
+14 WHEREAS, approximately 3.1 percent of women in the United States will be diagnosed
+15 with uterine cancer during their lifetime, and nearly 900,000 women are currently living with
+16 a history of uterine cancer; and
+17 WHEREAS, data from the Georgia Comprehensive Cancer Registry within the Georgia
+18 Department of Public Health indicates that from 2019 through 2023, the incidence rate of
+19 uterine corpus cancer (cancer of the body of the uterus) among women in Georgia was 25.4
+20 cases per 100,000 women, and from 2020 through 2024, the mortality rate from uterine
+21 corpus cancer was 5.6 deaths per 100,000 women; and
+22 WHEREAS, the uterine corpus cancer death rate in Black women is almost double that in
+23 White women (9.0 versus 4.6 deaths per 100,000, respectively), likely due to disparities in
+24 access to high-quality care; and
+25 WHEREAS, in 2026, an estimated 68,270 cases of uterine corpus cancer will be diagnosed
+26 and an estimated 14,450 women will die from the disease in the United States, of which an
+27 estimated 2,050 diagnosed cases and 490 deaths are projected to occur in the State of Georgia
+28 alone; and
+29 WHEREAS, factors that increase an individual's risk of developing endometrial cancer
+30 include older age, obesity, hormonal changes, early menstruation, late menopause, genetic
+31 predisposition, and taking hormone therapy for breast cancer; and
+32 WHEREAS, common symptoms of endometrial cancer, including abnormal uterine bleeding,
+33 postmenopausal bleeding, pelvic pain, and other gynecologic symptoms, may serve as
+34 important warning signs that warrant prompt medical evaluation; and
+H. R. 7EX
+- 2 -
+26 LC 112 4271
+35 WHEREAS, while there are no standard routine screening tests for endometrial cancer, there
+36 are several methods currently under study in clinical trials including pap test, transvaginal
+37 ultrasound, and endometrial sampling; and
+38 WHEREAS, because endometrial cancer frequently presents with early symptoms, including
+39 abnormal vaginal bleeding, approximately 68 percent of cases are diagnosed at an early
+40 stage, when treatment outcomes are generally most favorable; and
+41 WHEREAS, the five-year survival rate for endometrial cancer is 96 percent when diagnosed
+42 at an early stage and remains confined to the uterus, but it falls to 22 percent once the cancer
+43 has spread to distant organs, underscoring the critical importance of early detection and
+44 timely treatment; and
+45 WHEREAS, treatment for endometrial cancer varies based on the stage and characteristics
+46 of the disease and may include surgery, radiation therapy, chemotherapy, hormone therapy,
+47 targeted therapy, immunotherapy, or a combination of these approaches; and
+48 WHEREAS, increasing awareness among patients, caregivers, healthcare professionals, and
+49 policymakers can contribute to earlier diagnosis, improved access to care, and better health
+50 outcomes; and
+51 WHEREAS, recognizing endometrial cancer and raising awareness of its impact can help
+52 foster greater understanding of the disease and encourage individuals to seek appropriate
+53 medical care when symptoms arise; and
+54 WHEREAS, increased investment in endometrial cancer research is urgently needed to
+55 develop better screening methods, improve treatment options, and reduce mortality,
+H. R. 7EX
+- 3 -
+26 LC 112 4271
+56 particularly for Black and other high-risk populations disproportionately represented in
+57 Georgia.
+58 NOW, THEREFORE, BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES that
+59 the members of this body recognize endometrial cancer as a serious and growing public
+60 health treat affecting women across Georgia and the nation and the importance of increasing
+61 awareness of endometrial cancer and its impact on individuals, families, caregivers, and
+62 communities.
+63 BE IT FURTHER RESOLVED that the Clerk of the House of Representatives is authorized
+64 and directed to make appropriate copies of this resolution available for distribution to the
+65 public and the press.
+H. R. 7EX
+- 4 -
+[DELETED: 6L3,7,6,8dththt8]
+[DELETED: 6L b p p a o g s m s a]
+[DELETED: 6L b s m i t o a r m]
+[DELETED: 6L]
+
+
+================================================================================
+
+Raw Text:
+26 LC 112 4271
+House Resolution 7EX
+By: Representatives Schofield of the 63rd, Davis of the 87th, Scott of the 76th, Lim of the 98th,
+and Cannon of the 58th
+A RESOLUTION
+1 Recognizing endometrial cancer as a significant public health concern in the State of Georgia
+2 and promoting broad awareness and the importance of prevention, screening, and treatment;
+3 and for other purposes.
+4 WHEREAS, endometrial cancer, the most common type of uterine cancer, accounts for
+5 approximately 95 percent of all uterine cancer cases and develops when cells in the lining
+6 of the uterus mutate or change and become malignant; and
+7 WHEREAS, it ranks as the most common gynecologic malignancy in the United States, with
+8 approximately 66,000 cases diagnosed annually; and
+9 WHEREAS, endometrial cancer primarily affects postmenopausal women, with the average
+10 age at diagnosis being approximately 60 years, and is uncommon among women younger
+11 than 45 years of age; and
+12 WHEREAS, uterine cancer incidence has increased in recent decades and is now the fourth
+13 most common cancer in women; and
+H. R. 7EX
+- 1 -
+
+26 LC 112 4271
+14 WHEREAS, approximately 3.1 percent of women in the United States will be diagnosed
+15 with uterine cancer during their lifetime, and nearly 900,000 women are currently living with
+16 a history of uterine cancer; and
+17 WHEREAS, data from the Georgia Comprehensive Cancer Registry within the Georgia
+18 Department of Public Health indicates that from 2019 through 2023, the incidence rate of
+19 uterine corpus cancer (cancer of the body of the uterus) among women in Georgia was 25.4
+20 cases per 100,000 women, and from 2020 through 2024, the mortality rate from uterine
+21 corpus cancer was 5.6 deaths per 100,000 women; and
+22 WHEREAS, the uterine corpus cancer death rate in Black women is almost double that in
+23 White women (9.0 versus 4.6 deaths per 100,000, respectively), likely due to disparities in
+24 access to high-quality care; and
+25 WHEREAS, in 2026, an estimated 68,270 cases of uterine corpus cancer will be diagnosed
+26 and an estimated 14,450 women will die from the disease in the United States, of which an
+27 estimated 2,050 diagnosed cases and 490 deaths are projected to occur in the State of Georgia
+28 alone; and
+29 WHEREAS, factors that increase an individual's risk of developing endometrial cancer
+30 include older age, obesity, hormonal changes, early menstruation, late menopause, genetic
+31 predisposition, and taking hormone therapy for breast cancer; and
+32 WHEREAS, common symptoms of endometrial cancer, including abnormal uterine bleeding,
+33 postmenopausal bleeding, pelvic pain, and other gynecologic symptoms, may serve as
+34 important warning signs that warrant prompt medical evaluation; and
+H. R. 7EX
+- 2 -
+
+26 LC 112 4271
+35 WHEREAS, while there are no standard routine screening tests for endometrial cancer, there
+36 are several methods currently under study in clinical trials including pap test, transvaginal
+37 ultrasound, and endometrial sampling; and
+38 WHEREAS, because endometrial cancer frequently presents with early symptoms, including
+39 abnormal vaginal bleeding, approximately 68 percent of cases are diagnosed at an early
+40 stage, when treatment outcomes are generally most favorable; and
+41 WHEREAS, the five-year survival rate for endometrial cancer is 96 percent when diagnosed
+42 at an early stage and remains confined to the uterus, but it falls to 22 percent once the cancer
+43 has spread to distant organs, underscoring the critical importance of early detection and
+44 timely treatment; and
+45 WHEREAS, treatment for endometrial cancer varies based on the stage and characteristics
+46 of the disease and may include surgery, radiation therapy, chemotherapy, hormone therapy,
+47 targeted therapy, immunotherapy, or a combination of these approaches; and
+48 WHEREAS, increasing awareness among patients, caregivers, healthcare professionals, and
+49 policymakers can contribute to earlier diagnosis, improved access to care, and better health
+50 outcomes; and
+51 WHEREAS, recognizing endometrial cancer and raising awareness of its impact can help
+52 foster greater understanding of the disease and encourage individuals to seek appropriate
+53 medical care when symptoms arise; and
+54 WHEREAS, increased investment in endometrial cancer research is urgently needed to
+55 develop better screening methods, improve treatment options, and reduce mortality,
+H. R. 7EX
+- 3 -
+
+26 LC 112 4271
+56 particularly for Black and other high-risk populations disproportionately represented in
+57 Georgia.
+58 NOW, THEREFORE, BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES that
+59 the members of this body recognize endometrial cancer as a serious and growing public
+60 health treat affecting women across Georgia and the nation and the importance of increasing
+61 awareness of endometrial cancer and its impact on individuals, families, caregivers, and
+62 communities.
+63 BE IT FURTHER RESOLVED that the Clerk of the House of Representatives is authorized
+64 and directed to make appropriate copies of this resolution available for distribution to the
+65 public and the press.
+H. R. 7EX
+- 4 -
+
+[DELETED: 6L3,7,6,8dththt8]
+[DELETED: 6L b p p a o g s m s a]
+[DELETED: 6L b s m i t o a r m]
+[DELETED: 6L]

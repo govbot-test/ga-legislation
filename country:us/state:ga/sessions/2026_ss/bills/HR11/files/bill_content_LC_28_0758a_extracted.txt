@@ -1,0 +1,814 @@
+Title: By: Representatives Sanchez of the 42nd, McQueen of the 61st, Evans of the 57th, Hugley of
+Official Title: By: Representatives Sanchez of the 42nd, McQueen of the 61st, Evans of the 57th, Hugley of
+Number of Sections: 1
+Source: versions - LC 28 0758/a
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+26 LC 28 0758
+House Resolution 11EX
+the 141st, Frye of the 122nd, and others
+A RESOLUTION
+1 Proposing an amendment to the Constitution so as to provide for the creation and
+2 establishment of an independent redistricting commission; to provide for the qualifications
+3 and appointment of members of such commission; to provide for the filling of vacancies on
+4 the commission; to provide for officers, powers, duties, responsibilities, and resources for
+5 such commission; to provide for guidelines and methods for redistricting; to provide that
+6 redistricting for the General Assembly, members of the United States House of
+7 Representatives from this state, and any other elective body for which it is necessary to
+8 apportion the entire State of Georgia into districts shall be done by such commission and not
+9 the General Assembly; to provide for certain duties of the Supreme Court of Georgia with
+10 regard to redistricting; to provide for severability; to provide for certain notices with regard
+11 to amendments to certain provisions of the Constitution; to provide that the number of
+12 members of each house of the Georgia General Assembly shall be fixed by general law under
+13 certain conditions; to provide for related matters; to provide for submission of this
+14 amendment for ratification or rejection; and for other purposes.
+15 BE IT RESOLVED BY THE GENERAL ASSEMBLY OF GEORGIA:
+16 SECTION 1.
+17 Article II of the Constitution is amended by adding a new Section IV to read as follows:
+H. R. 11EX
+- 1 -
+26 LC 28 0758
+18 "SECTION IV.
+19 INDEPENDENT REDISTRICTING COMMISSION
+20 Paragraph I. Creation and duration of existence; purpose. There is established an
+21 Independent Redistricting Commission. The commission shall not have perpetual
+22 existence, but shall only exist when redistricting is necessitated by either a federal
+23 decennial census or by one or more court orders. The commission shall be constituted by
+24 January 1 of each year immediately following the conduct of a federal decennial census,
+25 or as soon as practicable following a relevant court order, and shall not cease to exist before
+26 fulfilling its duties, which include initial Supreme Court review of any plans approved.
+27 Paragraph II. Membership; appointment and qualifications; officers; vacancies;
+28 disqualification from other office. (a) The commission shall be composed of 15
+29 members, who shall be selected as provided in this Paragraph and shall meet the
+30 qualifications herein provided at all times during their tenure. The General Assembly shall
+31 not be authorized to establish additional qualifications for such commissioners.
+32 (b) Each commissioner shall:
+33 (1) Be a registered voter in the State of Georgia;
+34 (2) Not have been any of the following in the last six years:
+35 (A) A candidate for an elective federal, state, or county office or partisan municipal
+36 office;
+37 (B) An elected federal, state, county, or partisan municipal official, to include any
+38 person appointed to such office;
+39 (C) An officer or member of the governing body of a national, state, or local political
+40 party or political body or a federal, state, or local political candidate's campaign
+41 committee;
+42 (D) A paid consultant or employee of a federal, state, or local political candidate's
+43 campaign or of a political committee of any sort;
+H. R. 11EX
+- 2 -
+26 LC 28 0758
+44 (E) A person required to register as a federal or state lobbyist or an employee of such
+45 a person in that capacity; or
+46 (F) A member of a government body having oversight power or regulatory authority
+47 over the electoral process, including campaign finance;
+48 (3) Not be a spouse, child, or stepchild of any individual disqualified under
+49 subparagraph (b)(2) of this Paragraph or a parent, stepparent, or sibling of any individual
+50 disqualified under subparagraph (b)(2)(A), (b)(2)(B), or (b)(2)(F) of this Paragraph;
+51 (4) Not have voted in a partisan primary or primary runoff in the last three years
+52 inconsistent with his or her declared party affiliation or lack of such affiliation; and
+53 (5) Not otherwise be disqualified from holding office by this Constitution.
+54 (c) No commissioner shall be eligible to seek or be appointed to any state-wide office,
+55 state legislative office, or state judicial office for a five-year period from the date on which
+56 such person began service as a commissioner, nor shall such commissioner be selected as
+57 a member of a government body having oversight power or regulatory authority over the
+58 electoral process, including campaign finance, during such period.
+59 (d) Not later than January 1 of each year in which a federal decennial census is
+60 conducted, the Secretary of State shall cause applications for the office of commissioner
+61 to be made available to the general public. The applications shall be prepared and
+62 circulated in a manner that promotes a diverse and qualified applicant pool reflecting the
+63 diverse demographics and geography of this state, including linguistic diversity. In
+64 addition, by the same date, the Secretary of State shall cause applications to be mailed
+65 to 10,000 registered voters selected at random. The application form shall require
+66 applicants completing such form to:
+67 (1) Submit a complete application;
+68 (2) Attest under oath that such applicants meet the qualifications contained in
+69 subparagraph (b) of this Paragraph and further state that they either affiliate with one of
+H. R. 11EX
+- 3 -
+26 LC 28 0758
+70 the two political parties with the largest representation in the General Assembly, and if
+71 so, which party, or that they affiliate with neither;
+72 (3) Provide information sufficient to match each applicant to a registered voter in this
+73 state, or otherwise to determine that the applicant is not registered to vote in this state;
+74 (4) Disclose all contractual or other financial interests with this state;
+75 (5) Affirm their willingness to seek consensus and work impartially in pursuit of the
+76 defined criteria, as well as their present willingness to return to service if necessary; and
+77 (6) Disclose all political contributions by each applicant of $250.00 or more made to
+78 candidates or committees active in federal, state, or local political campaigns, including
+79 ballot measure campaigns, within the last ten years; provided, however, that the Secretary
+80 of State shall cause this amount to be adjusted for inflation in the calendar year prior to
+81 each federal decennial census.
+82 (e)(1) The Secretary of State shall accept applications for the office of commissioner
+83 until June 1 of such year and shall group applicants into three pools based on declared
+84 party affiliation or nonaffiliation.
+85 (2) By July 1 of such year, the Secretary of State shall disqualify all applications that
+86 are incomplete or that, based on the information contained in the applications and related
+87 records maintained by the Secretary of State, do not meet the prescribed qualifications
+88 of this Paragraph, and shall promptly notify disqualified applicants of the reason or
+89 reasons for such disqualification. The Secretary of State shall then promptly use a
+90 random mechanism to select 80 applicants from each pool, using accepted statistical
+91 weighting methods to ensure that the pools as closely as possible mirror the geographic
+92 and demographic makeup of the state.
+93 (3) By July 10 of such year, the Secretary of State shall forward the list of all 240
+94 selected applicants to the leaders of the two political parties with the largest
+95 representation in each house of the General Assembly.
+H. R. 11EX
+- 4 -
+26 LC 28 0758
+96 (4) By August 1 of such year, each of the four party leaders in the General Assembly
+97 may strike up to six applicants, such that a total of 24 applicants may be stricken.
+98 (5) By September 1 of such year, the Secretary of State shall randomly select the
+99 names of three commissioners from those remaining in each pool, such that nine
+100 commissioners in total are so selected. The method of selection shall be demonstrably
+101 random.
+102 (f) The Secretary of State shall call and convene a meeting of the initial nine
+103 commissioners, which shall be held by September 30 of such year. At such meeting, the
+104 initial nine commissioners shall select six additional commissioners by choosing two from
+105 those remaining in each pool. Each selection shall be approved by at least six of their
+106 number, including at least two from each partisan pool and at least one from the
+107 unaffiliated pool.
+108 (g) The Secretary of State shall convene meetings of the commission until the election
+109 of a chairperson, but shall not be entitled to a vote. The first meeting shall be convened no
+110 later than October 15 of such year. The commission shall elect a chairperson from its
+111 membership and shall elect a secretary. It may also elect a vice chairperson from its
+112 membership, who shall not be from the same pool as the chairperson. In the event that a
+113 chairperson or secretary is not elected at the first two meetings of the commission due to
+114 the vote threshold for exercise of powers in Paragraph III of this Section, the commission
+115 may, at its third or a subsequent meeting of such year, elect such official with the
+116 affirmative vote of eight commissioners, including at least one selected from each pool.
+117 If the chairperson is elected by such method, the commission shall also so elect a vice
+118 chairperson from its membership, who shall not be from the same pool as the chairperson.
+119 (h) A commissioner shall vacate office upon the occurrence of any of the following
+120 conditions, but not any others:
+121 (1) His or her death;
+122 (2) His or her written resignation, when received by the Secretary of State;
+H. R. 11EX
+- 5 -
+26 LC 28 0758
+123 (3) His or her disqualification from holding office under this Constitution;
+124 (4) He or she ceasing to meet the qualifications set forth in this Section; or
+125 (5) After written notice and an opportunity for the commissioner to respond, a vote
+126 of 11 commissioners, including at least one from each pool, finding substantial neglect
+127 of duty, gross misconduct in office, or inability to discharge the duties of office.
+128 In the event of a vacancy in a seat originally filled by random selection, the Secretary of
+129 State shall fill the vacancy by randomly selecting a name from the remaining qualifying
+130 applicants in the same pool from which the commissioner who vacated office was selected,
+131 using a demonstrably random method. In the event of a vacancy in a seat originally filled
+132 by a vote of the nine initial commissioners, the remaining commissioners shall fill the
+133 vacancy by a vote of two-thirds of their remaining number, with the support of at least
+134 three who were selected from each pool.
+135 (i) Following a court order requiring a map that was drawn by the commission to be
+136 redrawn, the chairperson shall reconvene the commission as soon as is feasible; provided,
+137 however, that, if the chairperson fails to call a meeting within ten days, the Secretary of
+138 State shall convene the commission. The commission shall have the same membership as
+139 when it was previously constituted to draw such map, and vacancies shall be handled as
+140 described in this Paragraph, provided that, in the event that more than half of the
+141 commission's membership is vacant, all randomly selected seats shall be filled before
+142 filling any vacancies in the other seats.
+143 (j) Notwithstanding any other provision of law, no employer shall discharge, threaten to
+144 discharge, intimidate, coerce, or retaliate against any employee because of the employee's
+145 membership on the commission or attendance or scheduled attendance at any meeting of
+146 the commission.
+147 Paragraph III. Powers and duties; exercise of powers. (a) Except as otherwise provided
+148 in this Section, the commission is vested with the sole power to draw district maps for the
+H. R. 11EX
+- 6 -
+26 LC 28 0758
+149 Georgia Senate, the Georgia House of Representatives, the United States House of
+150 Representatives, and any other elective body for which it is necessary to apportion the
+151 entire State of Georgia into districts. When constituted as the result of a court order or
+152 orders, the commission shall redraw only those maps directly affected by such court order
+153 or orders and shall attempt to make changes only as required to comply with such order or
+154 orders while satisfying the criteria established in this Section.
+155 (b) The commission shall also have the power to do all things necessary in order to
+156 exercise the above power or to perform its duties, including, without limitation, the power
+157 to make its own rules of procedure, the power to hire staff and to contract, the power to sue
+158 and be sued, the power to retain independent legal counsel, and the power to spend money
+159 from the trust fund established pursuant to Paragraph VI of this Section. Except as
+160 otherwise provided, the commission shall only exercise its powers by the affirmative vote
+161 of at least nine of its members, including at least two members from each of the three
+162 pools; provided, however, that the commission may retain counsel by a vote of eight
+163 members, including at least one from each pool, if it was unable at its preceding meeting
+164 to retain counsel using the regular threshold.
+165 (c) The commission is vested with the following duties:
+166 (1) To draw fair and impartial maps according to the criteria established in this Section,
+167 and no other criteria;
+168 (2) To ensure robust public participation and education regarding redistricting;
+169 (3) To hold at least ten public hearings during a decennial redistricting cycle, or at least
+170 six during a court ordered redistricting cycle, at locations distributed throughout this state,
+171 before releasing its own maps, and to utilize technology to provide for remote public
+172 participation in such hearings and allow members of the public to submit redistricting
+173 plans;
+H. R. 11EX
+- 7 -
+26 LC 28 0758
+174 (4) To hold six public hearings after releasing its own maps, also allowing for remote
+175 participation, and to maximize the attendance of its own membership at both sets of
+176 public hearings;
+177 (5) To conduct all business and communications in public, except consultation with
+178 counsel, and to make all records to which attorney-client privilege is not applicable
+179 available for public inspection, except as otherwise specified in this Section; and
+180 (6) To provide the public, including via website, with meeting agendas, notices, and
+181 minutes and with pertinent information, including demographic, geographic, and electoral
+182 data, regarding proposed plans and plan components, as well as full legal descriptions by
+183 census block, shapefiles, and maps for all proposed plans, such that any sufficiently
+184 skilled third party can exactly replicate the plans using solely the provided data.
+185 (d) No commissioner shall solicit or engage in private communication with any person
+186 or persons relating to redistricting, and all communications regarding redistricting received
+187 by any individual commissioner shall be records of the commission. Consultation with the
+188 commission's own staff or legal counsel shall not be deemed private communication.
+189 Paragraph IV. Redistricting criteria. (a) The commission shall use the following criteria
+190 in drawing districts and evaluating plans:
+191 (1) Compliance with the United States Constitution, the federal Voting Rights Act
+192 of 1965, as amended, and all applicable federal laws;
+193 (2) Geographic contiguity, provided that an island may be treated as contiguous to the
+194 nearest landmass in its county that is not an island;
+195 (3) Substantial equality of total population, provided that in no event shall the most
+196 populous and the least populous district in any plan differ in population per member by
+197 more than 10 percent of the average population per member, nor shall any plan violate
+198 applicable federal judicial standards regarding equality of population;
+H. R. 11EX
+- 8 -
+26 LC 28 0758
+199 (4) Provision of equal opportunity for racial and linguistic minorities to participate in
+200 the political process and elect the candidates of their choice, either alone or in coalition
+201 with others;
+202 (5) Preservation of whole communities of interest to the extent possible, with a
+203 community of interest being any group of reasonably geographically proximate
+204 Georgians sharing one or more substantial interests that might reasonably be the subject
+205 of action by the body for which maps are to be drawn, or otherwise sharing a common
+206 socioeconomic or demographic identity; provided, however, that shared political party
+207 affiliation shall not constitute a community of interest;
+208 (6) Respect for boundaries of political subdivisions and voting precincts when
+209 practical, with particular attention to ensuring that such boundaries are not subdivided
+210 into areas small enough to threaten ballot secrecy, provided that in no event shall any
+211 populated census block be split; and
+212 (7) Partisan fairness, to the extent it does not conflict with other criteria, such that all
+213 maps drawn can be expected to, on average, produce political representation reasonably
+214 proportionate to the popular vote in the state.
+215 (b) The commission shall not propose or approve any maps that, as a whole, favor any
+216 political party, political candidate, or incumbent, nor shall it make use of residential
+217 address information of any incumbent federal or state legislator or known or declared
+218 candidate for federal or state legislative office.
+219 Paragraph V. Adoption of maps; dissolution; failure to adopt maps; review of adopted
+220 maps; emergency provisions. (a) No later than October 1 of the year in which a federal
+221 decennial census is conducted, the commission shall adopt redistricting plans for all
+222 districts which it is required and empowered to draw. Each commissioner shall be entitled
+223 to propose one plan per type of district and shall provide an accompanying explanation of
+H. R. 11EX
+- 9 -
+26 LC 28 0758
+224 how such plan was created. The commission shall provide public notice of each plan that
+225 is to be considered and shall provide at least 45 days for public comment on such plans.
+226 (b) In the event that the commission is unable to adopt a redistricting plan through the
+227 regular exercise of its powers, the commission shall adopt a plan through the following
+228 procedure:
+229 (1) Each commissioner may submit one proposed plan for each type of district to the
+230 full commission for consideration. If such plan has not yet received public comment, it
+231 shall first be submitted for at least 20 days of public comment;
+232 (2) Each commissioner shall rank the plans submitted according to preference. Each
+233 plan shall be assigned a point value inverse to its ranking among the number of choices,
+234 giving the lowest ranked plan one point and the highest ranked plan a point value equal
+235 to the number of plans submitted; and
+236 (3) The commission shall adopt the plan receiving the highest total points and that is
+237 also ranked among the top half of plans by at least three commissioners not affiliated with
+238 the party of the commissioner submitting the plan, or in the case of a plan submitted by
+239 nonaffiliated commissioners, is ranked among the top half of plans by at least three
+240 commissioners affiliated with a party. If plans are tied for the highest point total, the
+241 Secretary of State shall randomly select the final plan from those plans. If no plan meets
+242 the requirements of this subparagraph (b), a panel comprising the Secretary of State, the
+243 state auditor, and the most recently retired Justice of the Supreme Court shall select a plan
+244 from the five highest ranked plans using a verifiably random mechanism, which the
+245 commission shall then be entitled to adopt by the affirmative vote of eight
+246 commissioners.
+247 (c) The Supreme Court shall review all adopted plans for compliance with the criteria
+248 set out in this Section using an abuse of discretion standard, except that a plan randomly
+249 selected from the five highest ranked plans shall be reviewed de novo. Within 30 days of
+250 each plan's adoption, the Supreme Court shall issue a judgment either affirming the plan's
+H. R. 11EX
+- 10 -
+26 LC 28 0758
+251 compliance or remanding the plan to the commission with instructions as to the specific
+252 deficiencies that must be remedied. Affirmed plans shall be filed with the Secretary of
+253 State within seven days. If a plan is remanded, the commission shall, within 12 days, hold
+254 a public hearing and adopt a new plan remedying the deficiencies, which shall be
+255 resubmitted for immediate Supreme Court review using an abuse of discretion standard.
+256 (d) The Supreme Court shall have original, exclusive jurisdiction in any suit against the
+257 Secretary of State concerning his or her duties in relation to the commission and in any suit
+258 challenging maps adopted by the commission. The Supreme Court shall have original,
+259 exclusive jurisdiction to review the ballot language of any proposed constitutional
+260 amendment modifying this Section. In no event shall any body, except the commission
+261 acting pursuant to this Section, promulgate and adopt a redistricting plan or plans for this
+262 state. In the event that the commission is repeatedly unable to adopt a plan that passes
+263 Supreme Court review by December 15, the Supreme Court shall fashion an appropriate
+264 order directing the commissioners to reach consensus on a plan by January 1.
+265 (e) During a decennial redistricting cycle, in the event that the commission believes it is
+266 infeasible to adopt plans by October 1 for reasons outside of its control, the commission
+267 may, by the affirmative vote of at least 12 commissioners, including at least three from
+268 each pool, extend such deadline, provided that in no event shall it be extended beyond the
+269 second Monday in January of the second year that is subsequent to the federal decennial
+270 census.
+271 (f) A plan affirmed by the Supreme Court shall go into immediate effect to the extent
+272 necessary to hold subsequent elections under that plan but shall not be applied to any
+273 residency requirements for legislators during the term in which the plan is adopted, nor
+274 shall any special election to fill a vacancy be held under such plan before a general election
+275 for the same position has been held under such plan.
+H. R. 11EX
+- 11 -
+26 LC 28 0758
+276 Paragraph VI. Funding; compensation; indemnification. (a) There is created the
+277 Independent Redistricting Commission Trust Fund. In each fiscal year in which a federal
+278 decennial census is conducted, the General Assembly shall make appropriations to the trust
+279 fund sufficient to fund the commission's operations for at least a single redistricting cycle.
+280 The General Assembly shall make further appropriations to the trust fund as necessary to
+281 ensure continuity of the commission's operations. During any year in which the
+282 commission is required to operate, the General Assembly shall appropriate to the trust fund
+283 at least one-fourth of the general purpose budget for the Secretary of State. The trust fund
+284 shall be reserved for the sole use of the commission, provided that, when the commission
+285 is not currently constituted and circumstances require its constitution, the state treasurer
+286 may authorize disbursements from the trust fund to pay costs associated with constituting
+287 the commission. Within six months of the commission's dissolution for a redistricting
+288 cycle, the state auditor shall review the moneys remaining in the trust fund and shall return
+289 all moneys not necessary for contingencies, such as legal defense and reconvening the
+290 commission, to the general fund of the state treasury. The funds in the trust fund shall not
+291 lapse.
+292 (b) Each commissioner shall receive a salary equal to at least one-fifth of the Governor's
+293 salary, which shall be paid from the trust fund. The State of Georgia shall indemnify
+294 commissioners for costs incurred.
+295 Paragraph VII. Severability; amendment of section. (a) This Section is self-executing.
+296 If a final court decision holds any part or parts of this Section to be in conflict with the
+297 United States Constitution or federal law, this Section shall be implemented to the
+298 maximum extent that the United States Constitution and federal law permit. Any provision
+299 or portion held invalid is severable from the remaining portions of this Section.
+300 (b) Whenever any amendment to this Section is proposed by the General Assembly, or
+301 whenever a new Constitution is proposed for this state, which would substantially modify
+H. R. 11EX
+- 12 -
+26 LC 28 0758
+302 the provisions of this Section, the ballot on which the question of such amendment is
+303 submitted to the people shall contain the statement: "If adopted, this amendment would
+304 modify the Independent Redistricting Commission previously ratified by the voters of
+305 Georgia."
+306 (c) The Independent Redistricting Commission shall not be subject to the provisions of
+307 Section VII of Article IV."
+308 SECTION 2.
+309 Article III, Section II of the Constitution is amended by revising Paragraphs I and II as
+310 follows:
+311 "Paragraph I. Senate and House of Representatives. (a) The Senate shall consist of not
+312 more than 56 Senators, each of whom shall be elected from single-member districts.
+313 (b) The House of Representatives shall consist of not fewer than 180 Representatives
+314 apportioned among representative districts of the state.
+315 (c) The General Assembly shall provide by general law for the number of members of
+316 each house and may amend such law only during the year in which a federal decennial
+317 census is conducted, before April 1 of such year.
+318 Paragraph II. Apportionment of General Assembly. The General Assembly shall
+319 apportion the Senate and House districts. Such districts shall be composed of contiguous
+320 territory. The apportionment of the Senate and of the House of Representatives shall be
+321 changed by the General Assembly as necessary after each United States decennial census
+322 Reserved."
+323 SECTION 3.
+324 The above proposed amendment to the Constitution shall be published and submitted as
+325 provided in Article X, Section I, Paragraph II of the Constitution. The ballot submitting the
+326 above proposed amendment shall have written or printed thereon the following:
+H. R. 11EX
+- 13 -
+26 LC 28 0758
+327 "( ) YES Shall the Constitution of Georgia be amended so as to provide for the creation
+328 ( ) NO of an independent citizens' redistricting commission composed of Georgia
+329 voters to conduct legislative and congressional redistricting?"
+330 All persons desiring to vote in favor of ratifying the proposed amendment shall vote "Yes."
+331 All persons desiring to vote against ratifying the proposed amendment shall vote "No." If
+332 such amendment shall be ratified as provided in said Paragraph of the Constitution, it shall
+333 become a part of the Constitution of this state.
+H. R. 11EX
+- 14 -
+[DELETED: 6L2,1,7,dstt1,2,tn a a t t C s a t p f t c a f t G A m o t U S H o c t p f r m t p f s o t]
+[DELETED: 6L R C  T c s n h p b s o e w r i n b e a f I  M a a q o v f o o  (  T c s b c o 1 w s b s a p i t P a s m t o p b o a f s o l p c c]
+[DELETED: 6L  N b a s c o s o a i d u  N l t J 1 o e y i w a f d c i b m a t t g p  T a s b p a d a g o t s i l d  I 1 r v s a r  T a f s r  A u o t s a m t q c i]
+[DELETED: 6L a t t l o t t p p w t l]
+[DELETED: 6L o t c f t r i e p s t n  T S o S s c a c a m o t i n i a l t f e p p a a l o f t a i t o a s m o s y e s o w t]
+[DELETED: 6L i t P p t i t e t m t h o t]
+[DELETED: 6L S t G H o R t U S H o t t f e p t P V o t S  E a]
+[DELETED: 6L]
+[DELETED: 6L  P o w c o i t t e p w  o i b a g o r g p  R f b o p s a v p w i m u c i c t c s a r p f a]
+[DELETED: 6L s t b e t a b t a v o e]
+[DELETED: 6L p h a a a n p r t d w s b j t r t b l o a p c]
+[DELETED: 6L c o t c o  D a y i w t S C o f l t S s b i t t]
+[DELETED: 6L I  A o G A  T G A s]
+[DELETED: 6LSS Oov]
+
+
+================================================================================
+
+Raw Text:
+26 LC 28 0758
+House Resolution 11EX
+By: Representatives Sanchez of the 42nd, McQueen of the 61st, Evans of the 57th, Hugley of
+the 141st, Frye of the 122nd, and others
+A RESOLUTION
+1 Proposing an amendment to the Constitution so as to provide for the creation and
+2 establishment of an independent redistricting commission; to provide for the qualifications
+3 and appointment of members of such commission; to provide for the filling of vacancies on
+4 the commission; to provide for officers, powers, duties, responsibilities, and resources for
+5 such commission; to provide for guidelines and methods for redistricting; to provide that
+6 redistricting for the General Assembly, members of the United States House of
+7 Representatives from this state, and any other elective body for which it is necessary to
+8 apportion the entire State of Georgia into districts shall be done by such commission and not
+9 the General Assembly; to provide for certain duties of the Supreme Court of Georgia with
+10 regard to redistricting; to provide for severability; to provide for certain notices with regard
+11 to amendments to certain provisions of the Constitution; to provide that the number of
+12 members of each house of the Georgia General Assembly shall be fixed by general law under
+13 certain conditions; to provide for related matters; to provide for submission of this
+14 amendment for ratification or rejection; and for other purposes.
+15 BE IT RESOLVED BY THE GENERAL ASSEMBLY OF GEORGIA:
+16 SECTION 1.
+17 Article II of the Constitution is amended by adding a new Section IV to read as follows:
+H. R. 11EX
+- 1 -
+
+26 LC 28 0758
+18 "SECTION IV.
+19 INDEPENDENT REDISTRICTING COMMISSION
+20 Paragraph I. Creation and duration of existence; purpose. There is established an
+21 Independent Redistricting Commission. The commission shall not have perpetual
+22 existence, but shall only exist when redistricting is necessitated by either a federal
+23 decennial census or by one or more court orders. The commission shall be constituted by
+24 January 1 of each year immediately following the conduct of a federal decennial census,
+25 or as soon as practicable following a relevant court order, and shall not cease to exist before
+26 fulfilling its duties, which include initial Supreme Court review of any plans approved.
+27 Paragraph II. Membership; appointment and qualifications; officers; vacancies;
+28 disqualification from other office. (a) The commission shall be composed of 15
+29 members, who shall be selected as provided in this Paragraph and shall meet the
+30 qualifications herein provided at all times during their tenure. The General Assembly shall
+31 not be authorized to establish additional qualifications for such commissioners.
+32 (b) Each commissioner shall:
+33 (1) Be a registered voter in the State of Georgia;
+34 (2) Not have been any of the following in the last six years:
+35 (A) A candidate for an elective federal, state, or county office or partisan municipal
+36 office;
+37 (B) An elected federal, state, county, or partisan municipal official, to include any
+38 person appointed to such office;
+39 (C) An officer or member of the governing body of a national, state, or local political
+40 party or political body or a federal, state, or local political candidate's campaign
+41 committee;
+42 (D) A paid consultant or employee of a federal, state, or local political candidate's
+43 campaign or of a political committee of any sort;
+H. R. 11EX
+- 2 -
+
+26 LC 28 0758
+44 (E) A person required to register as a federal or state lobbyist or an employee of such
+45 a person in that capacity; or
+46 (F) A member of a government body having oversight power or regulatory authority
+47 over the electoral process, including campaign finance;
+48 (3) Not be a spouse, child, or stepchild of any individual disqualified under
+49 subparagraph (b)(2) of this Paragraph or a parent, stepparent, or sibling of any individual
+50 disqualified under subparagraph (b)(2)(A), (b)(2)(B), or (b)(2)(F) of this Paragraph;
+51 (4) Not have voted in a partisan primary or primary runoff in the last three years
+52 inconsistent with his or her declared party affiliation or lack of such affiliation; and
+53 (5) Not otherwise be disqualified from holding office by this Constitution.
+54 (c) No commissioner shall be eligible to seek or be appointed to any state-wide office,
+55 state legislative office, or state judicial office for a five-year period from the date on which
+56 such person began service as a commissioner, nor shall such commissioner be selected as
+57 a member of a government body having oversight power or regulatory authority over the
+58 electoral process, including campaign finance, during such period.
+59 (d) Not later than January 1 of each year in which a federal decennial census is
+60 conducted, the Secretary of State shall cause applications for the office of commissioner
+61 to be made available to the general public. The applications shall be prepared and
+62 circulated in a manner that promotes a diverse and qualified applicant pool reflecting the
+63 diverse demographics and geography of this state, including linguistic diversity. In
+64 addition, by the same date, the Secretary of State shall cause applications to be mailed
+65 to 10,000 registered voters selected at random. The application form shall require
+66 applicants completing such form to:
+67 (1) Submit a complete application;
+68 (2) Attest under oath that such applicants meet the qualifications contained in
+69 subparagraph (b) of this Paragraph and further state that they either affiliate with one of
+H. R. 11EX
+- 3 -
+
+26 LC 28 0758
+70 the two political parties with the largest representation in the General Assembly, and if
+71 so, which party, or that they affiliate with neither;
+72 (3) Provide information sufficient to match each applicant to a registered voter in this
+73 state, or otherwise to determine that the applicant is not registered to vote in this state;
+74 (4) Disclose all contractual or other financial interests with this state;
+75 (5) Affirm their willingness to seek consensus and work impartially in pursuit of the
+76 defined criteria, as well as their present willingness to return to service if necessary; and
+77 (6) Disclose all political contributions by each applicant of $250.00 or more made to
+78 candidates or committees active in federal, state, or local political campaigns, including
+79 ballot measure campaigns, within the last ten years; provided, however, that the Secretary
+80 of State shall cause this amount to be adjusted for inflation in the calendar year prior to
+81 each federal decennial census.
+82 (e)(1) The Secretary of State shall accept applications for the office of commissioner
+83 until June 1 of such year and shall group applicants into three pools based on declared
+84 party affiliation or nonaffiliation.
+85 (2) By July 1 of such year, the Secretary of State shall disqualify all applications that
+86 are incomplete or that, based on the information contained in the applications and related
+87 records maintained by the Secretary of State, do not meet the prescribed qualifications
+88 of this Paragraph, and shall promptly notify disqualified applicants of the reason or
+89 reasons for such disqualification. The Secretary of State shall then promptly use a
+90 random mechanism to select 80 applicants from each pool, using accepted statistical
+91 weighting methods to ensure that the pools as closely as possible mirror the geographic
+92 and demographic makeup of the state.
+93 (3) By July 10 of such year, the Secretary of State shall forward the list of all 240
+94 selected applicants to the leaders of the two political parties with the largest
+95 representation in each house of the General Assembly.
+H. R. 11EX
+- 4 -
+
+26 LC 28 0758
+96 (4) By August 1 of such year, each of the four party leaders in the General Assembly
+97 may strike up to six applicants, such that a total of 24 applicants may be stricken.
+98 (5) By September 1 of such year, the Secretary of State shall randomly select the
+99 names of three commissioners from those remaining in each pool, such that nine
+100 commissioners in total are so selected. The method of selection shall be demonstrably
+101 random.
+102 (f) The Secretary of State shall call and convene a meeting of the initial nine
+103 commissioners, which shall be held by September 30 of such year. At such meeting, the
+104 initial nine commissioners shall select six additional commissioners by choosing two from
+105 those remaining in each pool. Each selection shall be approved by at least six of their
+106 number, including at least two from each partisan pool and at least one from the
+107 unaffiliated pool.
+108 (g) The Secretary of State shall convene meetings of the commission until the election
+109 of a chairperson, but shall not be entitled to a vote. The first meeting shall be convened no
+110 later than October 15 of such year. The commission shall elect a chairperson from its
+111 membership and shall elect a secretary. It may also elect a vice chairperson from its
+112 membership, who shall not be from the same pool as the chairperson. In the event that a
+113 chairperson or secretary is not elected at the first two meetings of the commission due to
+114 the vote threshold for exercise of powers in Paragraph III of this Section, the commission
+115 may, at its third or a subsequent meeting of such year, elect such official with the
+116 affirmative vote of eight commissioners, including at least one selected from each pool.
+117 If the chairperson is elected by such method, the commission shall also so elect a vice
+118 chairperson from its membership, who shall not be from the same pool as the chairperson.
+119 (h) A commissioner shall vacate office upon the occurrence of any of the following
+120 conditions, but not any others:
+121 (1) His or her death;
+122 (2) His or her written resignation, when received by the Secretary of State;
+H. R. 11EX
+- 5 -
+
+26 LC 28 0758
+123 (3) His or her disqualification from holding office under this Constitution;
+124 (4) He or she ceasing to meet the qualifications set forth in this Section; or
+125 (5) After written notice and an opportunity for the commissioner to respond, a vote
+126 of 11 commissioners, including at least one from each pool, finding substantial neglect
+127 of duty, gross misconduct in office, or inability to discharge the duties of office.
+128 In the event of a vacancy in a seat originally filled by random selection, the Secretary of
+129 State shall fill the vacancy by randomly selecting a name from the remaining qualifying
+130 applicants in the same pool from which the commissioner who vacated office was selected,
+131 using a demonstrably random method. In the event of a vacancy in a seat originally filled
+132 by a vote of the nine initial commissioners, the remaining commissioners shall fill the
+133 vacancy by a vote of two-thirds of their remaining number, with the support of at least
+134 three who were selected from each pool.
+135 (i) Following a court order requiring a map that was drawn by the commission to be
+136 redrawn, the chairperson shall reconvene the commission as soon as is feasible; provided,
+137 however, that, if the chairperson fails to call a meeting within ten days, the Secretary of
+138 State shall convene the commission. The commission shall have the same membership as
+139 when it was previously constituted to draw such map, and vacancies shall be handled as
+140 described in this Paragraph, provided that, in the event that more than half of the
+141 commission's membership is vacant, all randomly selected seats shall be filled before
+142 filling any vacancies in the other seats.
+143 (j) Notwithstanding any other provision of law, no employer shall discharge, threaten to
+144 discharge, intimidate, coerce, or retaliate against any employee because of the employee's
+145 membership on the commission or attendance or scheduled attendance at any meeting of
+146 the commission.
+147 Paragraph III. Powers and duties; exercise of powers. (a) Except as otherwise provided
+148 in this Section, the commission is vested with the sole power to draw district maps for the
+H. R. 11EX
+- 6 -
+
+26 LC 28 0758
+149 Georgia Senate, the Georgia House of Representatives, the United States House of
+150 Representatives, and any other elective body for which it is necessary to apportion the
+151 entire State of Georgia into districts. When constituted as the result of a court order or
+152 orders, the commission shall redraw only those maps directly affected by such court order
+153 or orders and shall attempt to make changes only as required to comply with such order or
+154 orders while satisfying the criteria established in this Section.
+155 (b) The commission shall also have the power to do all things necessary in order to
+156 exercise the above power or to perform its duties, including, without limitation, the power
+157 to make its own rules of procedure, the power to hire staff and to contract, the power to sue
+158 and be sued, the power to retain independent legal counsel, and the power to spend money
+159 from the trust fund established pursuant to Paragraph VI of this Section. Except as
+160 otherwise provided, the commission shall only exercise its powers by the affirmative vote
+161 of at least nine of its members, including at least two members from each of the three
+162 pools; provided, however, that the commission may retain counsel by a vote of eight
+163 members, including at least one from each pool, if it was unable at its preceding meeting
+164 to retain counsel using the regular threshold.
+165 (c) The commission is vested with the following duties:
+166 (1) To draw fair and impartial maps according to the criteria established in this Section,
+167 and no other criteria;
+168 (2) To ensure robust public participation and education regarding redistricting;
+169 (3) To hold at least ten public hearings during a decennial redistricting cycle, or at least
+170 six during a court ordered redistricting cycle, at locations distributed throughout this state,
+171 before releasing its own maps, and to utilize technology to provide for remote public
+172 participation in such hearings and allow members of the public to submit redistricting
+173 plans;
+H. R. 11EX
+- 7 -
+
+26 LC 28 0758
+174 (4) To hold six public hearings after releasing its own maps, also allowing for remote
+175 participation, and to maximize the attendance of its own membership at both sets of
+176 public hearings;
+177 (5) To conduct all business and communications in public, except consultation with
+178 counsel, and to make all records to which attorney-client privilege is not applicable
+179 available for public inspection, except as otherwise specified in this Section; and
+180 (6) To provide the public, including via website, with meeting agendas, notices, and
+181 minutes and with pertinent information, including demographic, geographic, and electoral
+182 data, regarding proposed plans and plan components, as well as full legal descriptions by
+183 census block, shapefiles, and maps for all proposed plans, such that any sufficiently
+184 skilled third party can exactly replicate the plans using solely the provided data.
+185 (d) No commissioner shall solicit or engage in private communication with any person
+186 or persons relating to redistricting, and all communications regarding redistricting received
+187 by any individual commissioner shall be records of the commission. Consultation with the
+188 commission's own staff or legal counsel shall not be deemed private communication.
+189 Paragraph IV. Redistricting criteria. (a) The commission shall use the following criteria
+190 in drawing districts and evaluating plans:
+191 (1) Compliance with the United States Constitution, the federal Voting Rights Act
+192 of 1965, as amended, and all applicable federal laws;
+193 (2) Geographic contiguity, provided that an island may be treated as contiguous to the
+194 nearest landmass in its county that is not an island;
+195 (3) Substantial equality of total population, provided that in no event shall the most
+196 populous and the least populous district in any plan differ in population per member by
+197 more than 10 percent of the average population per member, nor shall any plan violate
+198 applicable federal judicial standards regarding equality of population;
+H. R. 11EX
+- 8 -
+
+26 LC 28 0758
+199 (4) Provision of equal opportunity for racial and linguistic minorities to participate in
+200 the political process and elect the candidates of their choice, either alone or in coalition
+201 with others;
+202 (5) Preservation of whole communities of interest to the extent possible, with a
+203 community of interest being any group of reasonably geographically proximate
+204 Georgians sharing one or more substantial interests that might reasonably be the subject
+205 of action by the body for which maps are to be drawn, or otherwise sharing a common
+206 socioeconomic or demographic identity; provided, however, that shared political party
+207 affiliation shall not constitute a community of interest;
+208 (6) Respect for boundaries of political subdivisions and voting precincts when
+209 practical, with particular attention to ensuring that such boundaries are not subdivided
+210 into areas small enough to threaten ballot secrecy, provided that in no event shall any
+211 populated census block be split; and
+212 (7) Partisan fairness, to the extent it does not conflict with other criteria, such that all
+213 maps drawn can be expected to, on average, produce political representation reasonably
+214 proportionate to the popular vote in the state.
+215 (b) The commission shall not propose or approve any maps that, as a whole, favor any
+216 political party, political candidate, or incumbent, nor shall it make use of residential
+217 address information of any incumbent federal or state legislator or known or declared
+218 candidate for federal or state legislative office.
+219 Paragraph V. Adoption of maps; dissolution; failure to adopt maps; review of adopted
+220 maps; emergency provisions. (a) No later than October 1 of the year in which a federal
+221 decennial census is conducted, the commission shall adopt redistricting plans for all
+222 districts which it is required and empowered to draw. Each commissioner shall be entitled
+223 to propose one plan per type of district and shall provide an accompanying explanation of
+H. R. 11EX
+- 9 -
+
+26 LC 28 0758
+224 how such plan was created. The commission shall provide public notice of each plan that
+225 is to be considered and shall provide at least 45 days for public comment on such plans.
+226 (b) In the event that the commission is unable to adopt a redistricting plan through the
+227 regular exercise of its powers, the commission shall adopt a plan through the following
+228 procedure:
+229 (1) Each commissioner may submit one proposed plan for each type of district to the
+230 full commission for consideration. If such plan has not yet received public comment, it
+231 shall first be submitted for at least 20 days of public comment;
+232 (2) Each commissioner shall rank the plans submitted according to preference. Each
+233 plan shall be assigned a point value inverse to its ranking among the number of choices,
+234 giving the lowest ranked plan one point and the highest ranked plan a point value equal
+235 to the number of plans submitted; and
+236 (3) The commission shall adopt the plan receiving the highest total points and that is
+237 also ranked among the top half of plans by at least three commissioners not affiliated with
+238 the party of the commissioner submitting the plan, or in the case of a plan submitted by
+239 nonaffiliated commissioners, is ranked among the top half of plans by at least three
+240 commissioners affiliated with a party. If plans are tied for the highest point total, the
+241 Secretary of State shall randomly select the final plan from those plans. If no plan meets
+242 the requirements of this subparagraph (b), a panel comprising the Secretary of State, the
+243 state auditor, and the most recently retired Justice of the Supreme Court shall select a plan
+244 from the five highest ranked plans using a verifiably random mechanism, which the
+245 commission shall then be entitled to adopt by the affirmative vote of eight
+246 commissioners.
+247 (c) The Supreme Court shall review all adopted plans for compliance with the criteria
+248 set out in this Section using an abuse of discretion standard, except that a plan randomly
+249 selected from the five highest ranked plans shall be reviewed de novo. Within 30 days of
+250 each plan's adoption, the Supreme Court shall issue a judgment either affirming the plan's
+H. R. 11EX
+- 10 -
+
+26 LC 28 0758
+251 compliance or remanding the plan to the commission with instructions as to the specific
+252 deficiencies that must be remedied. Affirmed plans shall be filed with the Secretary of
+253 State within seven days. If a plan is remanded, the commission shall, within 12 days, hold
+254 a public hearing and adopt a new plan remedying the deficiencies, which shall be
+255 resubmitted for immediate Supreme Court review using an abuse of discretion standard.
+256 (d) The Supreme Court shall have original, exclusive jurisdiction in any suit against the
+257 Secretary of State concerning his or her duties in relation to the commission and in any suit
+258 challenging maps adopted by the commission. The Supreme Court shall have original,
+259 exclusive jurisdiction to review the ballot language of any proposed constitutional
+260 amendment modifying this Section. In no event shall any body, except the commission
+261 acting pursuant to this Section, promulgate and adopt a redistricting plan or plans for this
+262 state. In the event that the commission is repeatedly unable to adopt a plan that passes
+263 Supreme Court review by December 15, the Supreme Court shall fashion an appropriate
+264 order directing the commissioners to reach consensus on a plan by January 1.
+265 (e) During a decennial redistricting cycle, in the event that the commission believes it is
+266 infeasible to adopt plans by October 1 for reasons outside of its control, the commission
+267 may, by the affirmative vote of at least 12 commissioners, including at least three from
+268 each pool, extend such deadline, provided that in no event shall it be extended beyond the
+269 second Monday in January of the second year that is subsequent to the federal decennial
+270 census.
+271 (f) A plan affirmed by the Supreme Court shall go into immediate effect to the extent
+272 necessary to hold subsequent elections under that plan but shall not be applied to any
+273 residency requirements for legislators during the term in which the plan is adopted, nor
+274 shall any special election to fill a vacancy be held under such plan before a general election
+275 for the same position has been held under such plan.
+H. R. 11EX
+- 11 -
+
+26 LC 28 0758
+276 Paragraph VI. Funding; compensation; indemnification. (a) There is created the
+277 Independent Redistricting Commission Trust Fund. In each fiscal year in which a federal
+278 decennial census is conducted, the General Assembly shall make appropriations to the trust
+279 fund sufficient to fund the commission's operations for at least a single redistricting cycle.
+280 The General Assembly shall make further appropriations to the trust fund as necessary to
+281 ensure continuity of the commission's operations. During any year in which the
+282 commission is required to operate, the General Assembly shall appropriate to the trust fund
+283 at least one-fourth of the general purpose budget for the Secretary of State. The trust fund
+284 shall be reserved for the sole use of the commission, provided that, when the commission
+285 is not currently constituted and circumstances require its constitution, the state treasurer
+286 may authorize disbursements from the trust fund to pay costs associated with constituting
+287 the commission. Within six months of the commission's dissolution for a redistricting
+288 cycle, the state auditor shall review the moneys remaining in the trust fund and shall return
+289 all moneys not necessary for contingencies, such as legal defense and reconvening the
+290 commission, to the general fund of the state treasury. The funds in the trust fund shall not
+291 lapse.
+292 (b) Each commissioner shall receive a salary equal to at least one-fifth of the Governor's
+293 salary, which shall be paid from the trust fund. The State of Georgia shall indemnify
+294 commissioners for costs incurred.
+295 Paragraph VII. Severability; amendment of section. (a) This Section is self-executing.
+296 If a final court decision holds any part or parts of this Section to be in conflict with the
+297 United States Constitution or federal law, this Section shall be implemented to the
+298 maximum extent that the United States Constitution and federal law permit. Any provision
+299 or portion held invalid is severable from the remaining portions of this Section.
+300 (b) Whenever any amendment to this Section is proposed by the General Assembly, or
+301 whenever a new Constitution is proposed for this state, which would substantially modify
+H. R. 11EX
+- 12 -
+
+26 LC 28 0758
+302 the provisions of this Section, the ballot on which the question of such amendment is
+303 submitted to the people shall contain the statement: "If adopted, this amendment would
+304 modify the Independent Redistricting Commission previously ratified by the voters of
+305 Georgia."
+306 (c) The Independent Redistricting Commission shall not be subject to the provisions of
+307 Section VII of Article IV."
+308 SECTION 2.
+309 Article III, Section II of the Constitution is amended by revising Paragraphs I and II as
+310 follows:
+311 "Paragraph I. Senate and House of Representatives. (a) The Senate shall consist of not
+312 more than 56 Senators, each of whom shall be elected from single-member districts.
+313 (b) The House of Representatives shall consist of not fewer than 180 Representatives
+314 apportioned among representative districts of the state.
+315 (c) The General Assembly shall provide by general law for the number of members of
+316 each house and may amend such law only during the year in which a federal decennial
+317 census is conducted, before April 1 of such year.
+318 Paragraph II. Apportionment of General Assembly. The General Assembly shall
+319 apportion the Senate and House districts. Such districts shall be composed of contiguous
+320 territory. The apportionment of the Senate and of the House of Representatives shall be
+321 changed by the General Assembly as necessary after each United States decennial census
+322 Reserved."
+323 SECTION 3.
+324 The above proposed amendment to the Constitution shall be published and submitted as
+325 provided in Article X, Section I, Paragraph II of the Constitution. The ballot submitting the
+326 above proposed amendment shall have written or printed thereon the following:
+H. R. 11EX
+- 13 -
+
+26 LC 28 0758
+327 "( ) YES Shall the Constitution of Georgia be amended so as to provide for the creation
+328 ( ) NO of an independent citizens' redistricting commission composed of Georgia
+329 voters to conduct legislative and congressional redistricting?"
+330 All persons desiring to vote in favor of ratifying the proposed amendment shall vote "Yes."
+331 All persons desiring to vote against ratifying the proposed amendment shall vote "No." If
+332 such amendment shall be ratified as provided in said Paragraph of the Constitution, it shall
+333 become a part of the Constitution of this state.
+H. R. 11EX
+- 14 -
+
+[DELETED: 6L2,1,7,dstt1,2,tn a a t t C s a t p f t c a f t G A m o t U S H o c t p f r m t p f s o t]
+[DELETED: 6L R C  T c s n h p b s o e w r i n b e a f I  M a a q o v f o o  (  T c s b c o 1 w s b s a p i t P a s m t o p b o a f s o l p c c]
+[DELETED: 6L  N b a s c o s o a i d u  N l t J 1 o e y i w a f d c i b m a t t g p  T a s b p a d a g o t s i l d  I 1 r v s a r  T a f s r  A u o t s a m t q c i]
+[DELETED: 6L a t t l o t t p p w t l]
+[DELETED: 6L o t c f t r i e p s t n  T S o S s c a c a m o t i n i a l t f e p p a a l o f t a i t o a s m o s y e s o w t]
+[DELETED: 6L i t P p t i t e t m t h o t]
+[DELETED: 6L S t G H o R t U S H o t t f e p t P V o t S  E a]
+[DELETED: 6L]
+[DELETED: 6L  P o w c o i t t e p w  o i b a g o r g p  R f b o p s a v p w i m u c i c t c s a r p f a]
+[DELETED: 6L s t b e t a b t a v o e]
+[DELETED: 6L p h a a a n p r t d w s b j t r t b l o a p c]
+[DELETED: 6L c o t c o  D a y i w t S C o f l t S s b i t t]
+[DELETED: 6L I  A o G A  T G A s]
+[DELETED: 6LSS Oov]
