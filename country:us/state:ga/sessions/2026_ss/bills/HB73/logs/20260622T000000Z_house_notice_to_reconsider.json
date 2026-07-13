@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "House Notice to Reconsider",
+    "occurred_at": "2026-06-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026_ss",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+        "note": "api"
+      },
+      {
+        "url": "http://webservices.legis.ga.gov/GGAServices/Legislation/Service.svc?wsdl",
+        "note": "api"
+      },
+      {
+        "url": "https://www.legis.ga.gov/legislation/74841",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 73"
+}

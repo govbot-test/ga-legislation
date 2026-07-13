@@ -1,0 +1,204 @@
+{
+  "legislative_session": "2026_ss",
+  "identifier": "HB 68",
+  "title": "Lyons, City of; ad valorem tax; provide homestead exemption",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL to be entitled an Act to provide a homestead exemption from City of Lyons ad valorem taxes in the amount of the assessed value of the homestead property determined annually for the special district based upon the proceeds of a new Local Homestead Option Sales Tax (LHOST) to be imposed within the special district conterminous with Toombs County; to provide for definitions; to specify the terms and conditions of the exemption and the procedures relating thereto; to provide for applicability; to provide for compliance with constitutional requirements and the provisions of Article 2C of Chapter 8 of Title 48 of the O.C.G.A.; to provide for a referendum, effective dates, automatic repeal, mandatory execution of election, and judicial remedies regarding failure to comply; to provide for related matters; to repeal conflicting laws; and for other purposes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2026_ss-hb68"
+    }
+  ],
+  "actions": [
+    {
+      "description": "House Hopper",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House Second Readers",
+      "date": "2026-06-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Intragovernmental Coordination",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House Third Readers",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House Third Reading Lost",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House Notice to Reconsider",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House Reconsidered",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House Lost Reconsidered Bill/Resolution",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Leesa Hagan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Leesa Hagan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LC 44 3602/a",
+      "links": [
+        {
+          "url": "https://www.legis.ga.gov/api/legislation/document/2026EX/249441",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249441,
+        "_version_id": 3
+      }
+    },
+    {
+      "note": "Local Ad",
+      "links": [
+        {
+          "url": "https://www.legis.ga.gov/api/legislation/document/2026EX/249572",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249572,
+        "_version_id": 2
+      }
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Legislation/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "https://www.legis.ga.gov/legislation/74832",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "guid": 74832
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ga/government",
+    "name": "Georgia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ga"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:34:12Z"
+  }
+}

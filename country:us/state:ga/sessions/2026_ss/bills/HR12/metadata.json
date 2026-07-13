@@ -1,0 +1,158 @@
+{
+  "legislative_session": "2026_ss",
+  "identifier": "HR 12",
+  "title": "Congressional, legislative, and other state-wide apportionment or district plans; provide for certain minimum standards - CA",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "GENERAL ASSEMBLY"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A RESOLUTION proposing an amendment to the Constitution of the State of Georgia so as to provide for certain minimum standards for congressional, legislative, and other state-wide apportionment or district plans; to provide for an exception; to provide that such plans shall not be drawn so as to favor or disfavor any political party or political organization, incumbent, or political candidate; to prohibit the denial or abridgement of the equal opportunity of racial minorities to participate in the political process or to elect state officeholders; to provide standing and venue for actions to challenge such amendments; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2026_ss-hr12"
+    }
+  ],
+  "actions": [
+    {
+      "description": "House Hopper",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House Second Readers",
+      "date": "2026-06-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carolyn Hugley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carolyn Hugley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sam Park",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sam Park\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tanya Miller",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tanya Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Saira Draper",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Saira Draper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Park Cannon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Park Cannon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anne Allen Westbrook",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anne Allen Westbrook\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LC 47 4350/a",
+      "links": [
+        {
+          "url": "https://www.legis.ga.gov/api/legislation/document/2026EX/249412",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249412,
+        "_version_id": 2
+      }
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Legislation/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "https://www.legis.ga.gov/legislation/74834",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "guid": 74834
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ga/government",
+    "name": "Georgia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ga"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:34:12Z"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026_ss",
+  "identifier": "HR 36",
+  "title": "Ensley, Mrs. Oreatha Walker; commend",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A RESOLUTION honoring the life, legacy, and service of Mrs. Oreatha Walker Ensley; and for other purposes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2026_ss-hr36"
+    }
+  ],
+  "actions": [
+    {
+      "description": "House Hopper",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House Read and Adopted",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sandra Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sandra Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LC 112 4329/a",
+      "links": [
+        {
+          "url": "https://www.legis.ga.gov/api/legislation/document/2026EX/249692",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249692,
+        "_version_id": 2
+      }
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Legislation/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "https://www.legis.ga.gov/legislation/74896",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "guid": 74896
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ga/government",
+    "name": "Georgia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ga"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:34:12Z"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "legislative_session": "2026_ss",
+  "identifier": "SR 6",
+  "title": "Thompson, Mrs. Florine Jackson; recognize",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A RESOLUTION recognizing and commending Mrs. Florine Jackson Thompson upon the grand occasion of her 100th birthday; and for other purposes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2026_ss-sr6"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Senate Hopper",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "Senate Read and Adopted",
+      "date": "2026-06-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ed Harbison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ed Harbison\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Read and adopted LC 112 4263",
+      "links": [
+        {
+          "url": "https://www.legis.ga.gov/api/legislation/document/2026EX/249473",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249473,
+        "_version_id": 3
+      }
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Legislation/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "https://www.legis.ga.gov/legislation/74855",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "guid": 74855
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ga/government",
+    "name": "Georgia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ga"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:34:12Z"
+  }
+}

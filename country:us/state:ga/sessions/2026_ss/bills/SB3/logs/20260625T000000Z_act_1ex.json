@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Act 1EX",
+    "occurred_at": "2026-06-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026_ss",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+        "note": "api"
+      },
+      {
+        "url": "http://webservices.legis.ga.gov/GGAServices/Legislation/Service.svc?wsdl",
+        "note": "api"
+      },
+      {
+        "url": "https://www.legis.ga.gov/legislation/74767",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 3"
+}

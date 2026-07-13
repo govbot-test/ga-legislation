@@ -1,0 +1,143 @@
+{
+  "legislative_session": "2026_ss",
+  "identifier": "HB 88",
+  "title": "Hogansville, City of; ad valorem tax; provide homestead exemption",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL to be entitled an Act to provide a homestead exemption from City of Hogansville ad valorem taxes in the amount of the assessed value of the homestead property determined annually for the special district based upon the proceeds of a new Local Homestead Option Sales Tax (LHOST) to be imposed within the special district conterminous with Troup County; to provide for definitions; to specify the terms and conditions of the exemption and the procedures relating thereto; to provide for compliance with constitutional requirements and the provisions of Article 2C of Chapter 8 of Title 48 of the O.C.G.A.; to provide for a referendum, effective dates, automatic repeal, mandatory execution of election, and judicial remedies regarding failure to comply; to provide for related matters; to repeal conflicting laws; and for other purposes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2026_ss-hb88"
+    }
+  ],
+  "actions": [
+    {
+      "description": "House Hopper",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David Huddleston",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David Huddleston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vance Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Vance Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debbie Buckner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Debbie Buckner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Jenkins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David Jenkins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LC 61 0548/a",
+      "links": [
+        {
+          "url": "https://www.legis.ga.gov/api/legislation/document/2026EX/249647",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249647,
+        "_version_id": 3
+      }
+    },
+    {
+      "note": "Local Ad",
+      "links": [
+        {
+          "url": "https://www.legis.ga.gov/api/legislation/document/2026EX/249651",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249651,
+        "_version_id": 2
+      }
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Legislation/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "https://www.legis.ga.gov/legislation/74883",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "guid": 74883
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ga/government",
+    "name": "Georgia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ga"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:34:12Z"
+  }
+}

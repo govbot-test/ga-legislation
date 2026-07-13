@@ -1,0 +1,158 @@
+{
+  "legislative_session": "2026_ss",
+  "identifier": "HR 11",
+  "title": "Independent redistricting commission; provide for creation and establishment - CA",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "GENERAL ASSEMBLY"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A RESOLUTION proposing an amendment to the Constitution so as to provide for the creation and establishment of an independent redistricting commission; to provide for certain duties of the Supreme Court of Georgia with regard to redistricting; to provide for severability; to provide for certain notices with regard to amendments to certain provisions of the Constitution; to provide that the number of members of each house of the Georgia General Assembly shall be fixed by general law under certain conditions; to provide for related matters; to provide for submission of this amendment for ratification or rejection; and for other purposes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2026_ss-hr11"
+    }
+  ],
+  "actions": [
+    {
+      "description": "House Hopper",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    },
+    {
+      "description": "House Second Readers",
+      "date": "2026-06-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:34:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gabriel Sanchez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gabriel Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mekyah McQueen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mekyah McQueen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stacey Evans",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stacey Evans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carolyn Hugley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carolyn Hugley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spencer Frye",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Spencer Frye\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anne Allen Westbrook",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anne Allen Westbrook\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "LC 28 0758/a",
+      "links": [
+        {
+          "url": "https://www.legis.ga.gov/api/legislation/document/2026EX/249410",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249410,
+        "_version_id": 2
+      }
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "http://webservices.legis.ga.gov/GGAServices/Legislation/Service.svc?wsdl",
+      "note": "api"
+    },
+    {
+      "url": "https://www.legis.ga.gov/legislation/74833",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "guid": 74833
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ga/government",
+    "name": "Georgia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ga"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:34:12Z"
+  }
+}
