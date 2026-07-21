@@ -1,0 +1,18 @@
+Title: 
+Official Title: 
+Source: versions - Floor Amend 2 AM 47 0221
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+26 Floor Amend 2 AM 47 0221
+OUT OF ORDER
+Senator Jones II of the 22nd offered the following amendment #2:
+1 Amend SB 3EX (LC 47 4392) by deleting "and" at the end of line 23, by replacing the period
+2 with a semicolon at the end of line 25, and by inserting between lines 25 and 26 the
+3 following:
+4 (4) Two members of the Senate to be appointed by the minority leader of the Senate; and
+5 (5) Two members of the House of Representatives to be appointed by the minority leader
+6 of the House of Representatives.
+- 1 -
