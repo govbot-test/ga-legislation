@@ -1,0 +1,5 @@
+{
+  "error": "Could not parse JSON",
+  "raw": "<<<<<<<< HEAD:_data/ga/organization_8fbfabbc-84d0-11f1-9515-32ec4054c615.json\n{\"name\": \"Georgia General Assembly\", \"classification\": \"legislature\", \"parent_id\": null, \"links\": [], \"sources\": [], \"extras\": {}, \"_id\": \"8fbfabbc-84d0-11f1-9515-32ec4054c615\"}\n========\n{\"name\": \"Georgia General Assembly\", \"classification\": \"legislature\", \"parent_id\": null, \"links\": [], \"sources\": [], \"extras\": {}, \"_id\": \"9811def8-84ca-11f1-b257-3ee9cefbda3f\"}\n>>>>>>>> 9b9a227efe86627237085e0b98200c310b369e35:_data/ga/organization_9811def8-84ca-11f1-b257-3ee9cefbda3f.json\n",
+  "_original_filename": "organization_8fbfabbc-84d0-11f1-9515-32ec4054c615.json"
+}
